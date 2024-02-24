@@ -1,4 +1,4 @@
-# Google-Salifort-Motors-project
+# Employee Attrition Prediction 
 
 ![](https://github.com/asaklil/Salifort-Motors-project/blob/main/google-logo.gif)
 
